@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/atul-mandavkar/boilerplate-npm.git"
   },
-  "keywords": [],
+  "keywords": [
+    "descriptive",
+    "related",
+    "words"
+  ],
   "author": "Atul Mandavkar",
   "license": "ISC",
   "bugs": {
@@ -19,6 +23,7 @@
   },
   "homepage": "https://github.com/atul-mandavkar/boilerplate-npm#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "npe": "^1.1.4"
   }
 }
