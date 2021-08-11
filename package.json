@@ -1,14 +1,24 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "boilerplate-npm",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul-mandavkar/boilerplate-npm.git"
+  },
+  "keywords": [],
+  "author": "Atul Mandavkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atul-mandavkar/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/atul-mandavkar/boilerplate-npm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
