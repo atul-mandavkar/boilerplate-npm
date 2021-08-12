@@ -25,7 +25,6 @@
   "homepage": "https://github.com/atul-mandavkar/boilerplate-npm#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.10.2",
     "npe": "^1.1.4"
   }
 }
